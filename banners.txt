@@ -8,3 +8,7 @@
 #
 # Por enquanto não há imagens. Faça upload de imagens neste repositório
 # e adicione as URLs abaixo para elas aparecerem no mapa.
+https://raw.githubusercontent.com/viniciusvieirafx/brasilsao-banners/main/A_MELHOR.png
+https://raw.githubusercontent.com/viniciusvieirafx/brasilsao-banners/main/AnuncioVRChatcorrigido.png
+https://raw.githubusercontent.com/viniciusvieirafx/brasilsao-banners/main/BANNER2.png
+https://raw.githubusercontent.com/viniciusvieirafx/brasilsao-banners/main/asda.png
