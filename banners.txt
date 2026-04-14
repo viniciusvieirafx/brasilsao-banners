@@ -1,0 +1,10 @@
+# Lista de banners do Brasilsão
+# Adicione URLs de imagens aqui, uma por linha.
+# Linhas começando com # são ignoradas.
+# Formato recomendado: JPG ou PNG, resolução 1920x1080 (16:9)
+#
+# Exemplo:
+# https://raw.githubusercontent.com/viniciusvieirafx/brasilsao-banners/main/banner1.jpg
+#
+# Por enquanto não há imagens. Faça upload de imagens neste repositório
+# e adicione as URLs abaixo para elas aparecerem no mapa.
