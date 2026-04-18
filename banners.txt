@@ -1,9 +1,0 @@
-# Banners do Brasilsão
-# banner_01 = A_MELHOR
-# banner_02 = AnuncioVRChatcorrigido
-# banner_03 = dsadas
-# banner_04 = asda
-https://raw.githubusercontent.com/viniciusvieirafx/brasilsao-banners/main/banner_01.png
-https://raw.githubusercontent.com/viniciusvieirafx/brasilsao-banners/main/banner_02.png
-https://raw.githubusercontent.com/viniciusvieirafx/brasilsao-banners/main/banner_03.png
-https://raw.githubusercontent.com/viniciusvieirafx/brasilsao-banners/main/banner_04.png
